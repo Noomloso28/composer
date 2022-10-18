@@ -1,0 +1,19 @@
+{
+    "name": "noomloso28/hello-composer",
+    "description": "This is folder for test composer installation with composer.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noomloso28\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noomloso28",
+            "email": "noom.html@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
